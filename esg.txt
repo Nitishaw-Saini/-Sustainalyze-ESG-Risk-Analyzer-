@@ -1,0 +1,8 @@
+{
+  "name": "ESG Risk Theme",
+  "dataColors": [
+    "#28a745",  // Green - Low Risk
+    "#ffc107",  // Yellow - Medium Risk
+    "#dc3545"   // Red - High Risk
+  ]
+}
