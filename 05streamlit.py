@@ -388,8 +388,6 @@ if isinstance(top_terms, str):
 
 st.markdown(f"**Top Controversy Terms:** {', '.join(top_terms)}")
 
-# 3. AI-Generated ESG Insight
-st.markdown(f"**AI-Generated ESG Insight:** _{selected_row['ESG_AI_Insight']}_")
 
 # 13. Importing report 
 from fpdf import FPDF
